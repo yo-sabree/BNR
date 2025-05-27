@@ -1,0 +1,62 @@
+{
+  "2_marks": {
+    "Q2": {
+      "question": "Find the sum of the finst odd numbers.\tQ2.",
+      "steps": 3,
+      "answers": [
+        "- Finst, list the first 5 odd numbers: 1, 3,5,7,9",
+        "- Now, we have to sun the odd numbers 1+5=4 4+5 = 9 a+7=16 16 + 9=25",
+        "The total sun the odel number is 25"
+      ]
+    },
+    "Q5": {
+      "question": "What shape comes after a hescan in regular",
+      "steps": 3,
+      "answers": [
+        "A heapon has o Dides",
+        "We are moving prward by 1.",
+        "14 bides is hexagon."
+      ]
+    },
+    "Q7": {
+      "question": "What is the lith cube number?",
+      "steps": 2,
+      "answers": [
+        ": Pattern: 1+2=3 3+3 = 6 6+2=8 8+1:9",
+        ": The sun is 9 --- Page 3 ---"
+      ]
+    }
+  },
+  "5_marks": {
+    "Q1": {
+      "question": "number is a square number easing a tenns.",
+      "steps": 8,
+      "answers": [
+        "We have the list of first 5 odd number 1, 3, 5, 7,9, 11",
+        "Fhom the sequence we have to show Hat the sun of the first n odd numbers is a square number.",
+        "1+3=4 475=9 9+7=16 10+9 = 25 25+11 : 36",
+        "The sun of finst 6 odd numbers forn a sequence 4,9, 16, 25, 36",
+        "The san of odd nunters poon the square number",
+        "--- Find the sun of the finst 1o even numbers QB. and identify the pattern. SOLUTIONS.",
+        "We ibtart by l0 even unibers 2, 4, 6, 8, 10, 12, 14, 16,18,20",
+        "Let's add then, i 274 = 6 6+0:12 12+8 = 20 20+10 = 50 50+12 - 42 42 + 14 = 56 56+16 = 72 72 + 18 = 90 90 + 20 = 110 5TEP 3: The total sun is 11D: --- Page 5 --- Determine the number of the line segments"
+      ]
+    },
+    "Q6": {
+      "question": "in the koch Snowslake for 4 stages.",
+      "steps": 10,
+      "answers": [
+        "It have 3 line segment.",
+        "Initial value is o, line 3.",
+        "Each degment is split into 4.",
+        "3x4=12 1274=48 4874 = 192 192x4: 768 Segments Add fist 5 triangular numbers, 1, 316, 10,15 SOLUTION: -",
+        "obserue the pattern BTEP 2: Now, we have to add values of pattern",
+        "We have to add 1+5=4 1+6 = 10 10110:20 20 + 15: 55",
+        "The san of the trangle number is 35 --- Page 6 --- QIO. multiply first 5 triangwar numbors of by 6 and add 1. SOLUTION!-",
+        "The triangular numbers are 1, 5, 6, 10, 15",
+        ": 1x6 = 6 3x6:18 6x6:36 10x6: 60 15×6:90",
+        "Adding 1, 7, 19, 56, 61.91"
+      ]
+    }
+  }
+}

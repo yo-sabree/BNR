@@ -1,0 +1,244 @@
+{
+  "2_marks": {
+    "Q1": {
+      "question": "Write the next three numbers of the sequence: 1, 3, 6, 10, 15. What is the name of this  sequence?",
+      "steps": 5,
+      "answers": [
+        "First, observe the pattern in the sequence 1, 3, 6, 10, 15.",
+        "Now look at how the numbers are increasing; From 1 to 3, we add 2 From 3 to 6, we add 3 From 6 to 10, we add 4 From 10 to 15, we add 5",
+        "Each time, we are adding the next natural number :2, 3, 4, 5...",
+        "Now, we have to find the next 3 numbers, We add 15+6=21 21+7=28 28+8=36 We have added the consecutive natural number to each of the value in the sequence.",
+        "This pattern is called the “triangular numbers”, because each number can form a triangle of dots."
+      ]
+    },
+    "Q2": {
+      "question": "Find the sum of the first 5 odd numbers.",
+      "steps": 3,
+      "answers": [
+        "First, list the first 5 odd numbers: 1,3,5,7,9",
+        "Now we have to the odd numbers. 1+3=4 4+5=9 9+7=16 16+9=25",
+        "The total sum the odd numbers is 25 If odd numbers added like this it forms square numbers."
+      ]
+    },
+    "Q3": {
+      "question": "What number comes next in the pattern: 1, 2, 4, 8, 16, ...?",
+      "steps": 4,
+      "answers": [
+        "First, observe the pattern.",
+        "Each number is doubling the previous number. 1 × 2 = 2 2 × 2 = 4 4 × 2 = 8 8 × 2 = 16",
+        "To find the next term, we have to multiply 16 by 2 16 × 2 = 32",
+        "The next number is 32. This is a sequence of powers of 2."
+      ]
+    },
+    "Q4": {
+      "question": "Find the square of the 6th natural number.",
+      "steps": 6,
+      "answers": [
+        "We have to find the 6th natural number.(i.e.) 1,2,3,4,5,6.",
+        "The sixth natural number is 6.",
+        "We have to find the square value of 6.",
+        "Now, make a square of 6 using dots.",
+        "Count all dots in rows and columns.",
+        "There are totally 36 dots. The square of 6th natural number is 36."
+      ]
+    },
+    "Q5": {
+      "question": "What shape comes after a hexagon in regular polygon sequence?",
+      "steps": 4,
+      "answers": [
+        "A hexagon has 6 sides.",
+        "We are moving forward by increasing the number of sides by 1.",
+        "We have to find the name of the shape with 7 sides.",
+        "The name of the shape with 4 sides is heptagon."
+      ]
+    },
+    "Q6": {
+      "question": "Identify the sequence: 1, 4, 9, 16, 25...",
+      "steps": 5,
+      "answers": [
+        "We have to observe the pattern in the sequence.",
+        "Look at how the numbers are growing.",
+        "We are adding odd numbers each time. 1+3=4 4+5=9 9+7=16 16+9=25",
+        "These are numbers formed by arranging dots in perfect squares.",
+        "this is a pattern of square numbers."
+      ]
+    },
+    "Q7": {
+      "question": "What is the 4th cube number?",
+      "steps": 3,
+      "answers": [
+        "We have to find the cube value of 4.",
+        "The 4th cube can be written as 4 × 4 × 4.",
+        "The 4th cube number is 64"
+      ]
+    },
+    "Q8": {
+      "question": "What is the rule for generating the sequence: 1, 3, 5, 7, 9...?",
+      "steps": 3,
+      "answers": [
+        "We have to observe the pattern and identify the rule for generating the sequence.",
+        "Look at the numbers, we add 2 each times. 1+2=3 3+2=5 5+2=7 7+2=9",
+        "The rule is simple keep adding 2."
+      ]
+    },
+    "Q9": {
+      "question": "Find the next number in the sequence: 1, 3, 9, 27.",
+      "steps": 5,
+      "answers": [
+        "We have to check the pattern and identify the next number.",
+        "Let’s check the pattern; 1 × 3 = 3 3 × 3 = 9 9 × 3 = 27",
+        "In the sequence we had multiplied each number by 3.",
+        "To identify the next term, we have to multiply 27 by 3. 27 × 3 = 81",
+        "The next number in the sequence is 81. This is the pattern of powers of 3"
+      ]
+    },
+    "Q10": {
+      "question": "What is the sum of 1 + 2 + 3 + 2 + 1?",
+      "steps": 3,
+      "answers": [
+        "We have to find the sum of the pattern.",
+        "We have to add the term in the form of patterns. 1+2=3 3+3=6 6+2=8 8+1=9",
+        "The sum is 9. 5 Marks"
+      ]
+    }
+  },
+  "5_marks": {
+    "Q1": {
+      "question": "Prove that the sum of the first n odd numbers is a square number using the first 6 terms.",
+      "steps": 6,
+      "answers": [
+        "We have to list the first 6 odd numbers: 1, 3, 5, 7, 9, 11.",
+        "From this sequence we have to show that the sum of the first n odd numbers is a square number using the first 6 terms.",
+        "We have to find the sum, 1+3=4 4+5=9 9 + 7 = 16 16 + 9 = 25 25 + 11 = 36",
+        "The sum of first 6 odd numbers form a sequence 4,9,16,25,36.",
+        "The sum of odd numbers form the square numbers.",
+        "We have proved that adding odd numbers gives us square numbers each time."
+      ]
+    },
+    "Q2": {
+      "question": "Explain with picture and steps how square numbers grow using dots (up to 5×5).",
+      "steps": 12,
+      "answers": [
+        "We have to start with 1 dot.",
+        "",
+        "Now add 2 dots around it, to form a 2×2 square.",
+        "",
+        "Add a new row and column to make 3×3",
+        "",
+        "Again, add a row and column to make 4×4. To get the square value as 16.",
+        "",
+        "Now, we have t find the 5th square. By adding one more row and column to make 5×5.",
+        "",
+        "Each time we are adding more layers of dots in L-shapes.",
+        "square numbers are built by stacking dots in square shapes."
+      ]
+    },
+    "Q3": {
+      "question": "Find the sum of the first 10 even numbers and identify the pattern.",
+      "steps": 7,
+      "answers": [
+        "We start by listing the first 10 even numbers.",
+        "The first 10 even numbers are 2, 4, 6, 8, 10, 12, 14, 16, 18, 20.",
+        "Now, let's add them step by step 2 + 4 = 6 6 + 6 = 12 12 + 8 = 20 20 + 10 = 30 30 + 12 = 42 42 + 14 = 56 56 + 16 = 72 72 + 18 = 90 90 + 20 = 110",
+        "The total sum of the first 10 even numbers is 110.",
+        "All numbers increase by 2 each time.",
+        "This is a regular even number pattern.",
+        "The numbers are equally spaced and follow a smooth increasing order."
+      ]
+    },
+    "Q4": {
+      "question": "Complete and explain the pattern: 1 + 2 + 3 + 4 + 3 + 2 + 1",
+      "steps": 7,
+      "answers": [
+        "Write down the full number pattern 1 + 2 + 3 + 4 + 3 + 2 + 1.",
+        "Let’s add the numbers from left to right step by step. 1+2=3 3+3=6 6+4=10 10+3=13 13+2=15 15+1=16",
+        "The total sum is 16.",
+        "It increases to 4, then decreases back to 1.",
+        "The number of blocks or dots in each line would be",
+        "This creates a diamond or pyramid shape.",
+        "When arranged with dots, this symmetric pattern makes a perfect 4×4 square."
+      ]
+    },
+    "Q5": {
+      "question": "Find the number of line segments in Complete Graphs: K2, K3, K4, K5",
+      "steps": 13,
+      "answers": [
+        "In a complete graph, every point (or dot) is connected to every other point by a line.",
+        "Let’s start with K2.",
+        "It contains 2 point namely A and B and connects AB.",
+        "There is one line segment in the K2.",
+        "Now we have to find for K3.",
+        "It has 3 points A, B, C and connects AB, BC, CA.",
+        "There are 3 line segments in the K3.",
+        "Now we have to find for K4.",
+        "It has 4 points A, B, C, D and connects AB, BC, CD, DA.",
+        "There are 6 line segments in the K4.",
+        "Now we have to find for K5.",
+        "It has 5 points A, B, C,D, E and connects AB, BC, CD, DE,EA.",
+        "There are 10 line segments in the K5."
+      ]
+    },
+    "Q6": {
+      "question": "Determine the number of line segments in the Koch Snowflake for 4 stages.",
+      "steps": 8,
+      "answers": [
+        "A Koch Snowflake begins with an equilateral triangle. It has 3 line segment.",
+        "Now, we can consider the initial value.",
+        "The initial value we be 0. The total line segment is 3.",
+        "Each segment is split into 4.",
+        "We have to multiply line segment and each split. 3 × 4 = 12 𝑠𝑒𝑔𝑚𝑒𝑛𝑡𝑠",
+        "Each of those 12 becomes 4 segments. 12 × 4 = 48 𝑠𝑒𝑔𝑚𝑒𝑛𝑡𝑠",
+        "Each of those 48 becomes 4 segments. 48 × 4 = 192 𝑠𝑒𝑔𝑚𝑒𝑛𝑡𝑠",
+        "Each of those 192 becomes 4 segments. 192 × 4 = 768 𝑠𝑒𝑔𝑚𝑒𝑛𝑡𝑠 STEP 9: We observe that the pattern follows number of segments is multiplied by 4 each time."
+      ]
+    },
+    "Q7": {
+      "question": "Find the 7th square number and draw it. Show relation to dot arrangement.",
+      "steps": 5,
+      "answers": [
+        "We have to find the square value for the 7th term.",
+        "Square numbers are formed by multiplying a number by itself.",
+        "The 7th square number can be written as 7 × 7.",
+        "The value of the 7th square is 49.",
+        "We can arrange 49 dots in a 7 by 7 square."
+      ]
+    },
+    "Q8": {
+      "question": "Add first 5 triangular numbers: 1, 3, 6, 10, 15",
+      "steps": 4,
+      "answers": [
+        "Observe the pattern.",
+        "Now, we have to add values of the pattern.",
+        "We have to add 1+3=4 4+6=10 10+10=20 20+15=35",
+        "The sum of the triangular number is 35."
+      ]
+    },
+    "Q9": {
+      "question": "Add 1, 1 + 2, 1 + 2 + 4, 1 + 2 + 4 + 8, ... up to 4 terms. Then add 1 to each. Explain  pattern.",
+      "steps": 8,
+      "answers": [
+        "We have to identify the first, second, third and fourth.",
+        "The first term is 1, second term is 1+2, third term is 1 + 2 + 4 and fourth term is 1 + 2 + 4 + 8.",
+        "Now, we have to add the terms separately, 1 + 2 = 3 1 + 2 + 4 = 7 1 + 2 + 4 + 8 = 15",
+        "The sequence become 1,3 ,7, and 15.",
+        "Now we have to add 1 to the above sequence.",
+        "The sequence will be 1+1=2 3+1=4 7+1=8 15+1=16",
+        "The new pattern is 2, 4, 8, and 16.",
+        "The new sequence follows the pattern power of 2."
+      ]
+    },
+    "Q10": {
+      "question": "Multiply first 5 triangular numbers by 6 and add 1. What sequence is this?",
+      "steps": 7,
+      "answers": [
+        "The first 5 triangular numbers are 1,3,6,10,15.",
+        "Now, we have to multiply sequence by 6. 1 × 6 = 6 3 × 6 = 18 6 × 6 = 36 10 × 6 = 60 15 × 6 = 90",
+        "The new sequence is 6, 18, 36, 60, and 90.",
+        "Now, we have to add 1 to each term of new sequence. 6+1=7 18+1=19 36+1=37 60+1=61 90+1=91",
+        "The sequence after adding 1; 7, 19, 37, 61, 91.",
+        "These numbers are 1 more than a multiple of 6.",
+        "This is called the Centered Hexagonal Number sequence."
+      ]
+    }
+  }
+}
